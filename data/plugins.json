@@ -386737,6 +386737,26 @@
         "ui"
       ],
       "pushedAt": "2026-10-17"
+    },
+    {
+      "name": "Git Worktree Panel",
+      "repo": "LeonZ666/dsh-gitworktree-gui",
+      "description": "Read-only Git branch topology, worktrees, changes and file tree in the DSH right sidebar.",
+      "category": "bundle",
+      "official": false,
+      "added": "2026-10-18",
+      "lastVerified": "2026-10-18",
+      "verifiedAgainst": "0.2.1-rc.2",
+      "status": "verified",
+      "evidence": "package.json#dsh.bundle",
+      "npm": "dsh-gitworktree-gui",
+      "stars": 0,
+      "starsUpdated": "2026-10-18",
+      "tags": [
+        "ui",
+        "devtools"
+      ],
+      "pushedAt": "2026-10-18"
     }
   ]
 }
